@@ -26,3 +26,14 @@ It was founded in 1930 by Chicago business leader Max Alder.
 * Willis Tower
 
 ![Click here to see AboutMe](https://github.com/chandrakanth7/assignment2-chinthakuntla/blob/main/AboutMe.md)
+
+---
+
+## Exploring table section
+This table includes best cities to visit and time it takes to spend there.
+
+|   City   |   Location   |  Time to spend   |
+|:---------|:------------:|-----------------:|
+|Chicago   |Willis Tower  |1 hour  |
+|Colorado  |Larimer Square|2 hours | 
+|New York  |Times Square  |4 hours | 
