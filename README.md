@@ -37,3 +37,12 @@ This table includes best cities to visit and time it takes to spend there.
 |Chicago   |Willis Tower  |1 hour  |
 |Colorado  |Larimer Square|2 hours | 
 |New York  |Times Square  |4 hours | 
+
+---
+
+## Two quotes that I like the most
+> The fault...is not in our stars, but in ourselves -- <cite>Benjamin Franklin</cite>
+>
+> No legacy is so rich as honesty -- <cite>Willaim Shakespeare</cite>
+
+
