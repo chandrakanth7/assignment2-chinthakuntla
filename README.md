@@ -25,4 +25,4 @@ It was founded in 1930 by Chicago business leader Max Alder.
 * Chicago Skyline
 * Willis Tower
 
-![Click here to see AboutMe](https://github.com/chandrakanth7/assignment2-chinthakuntla/blob/main/ABOUTME.md?raw=true)
+![Click here to see AboutMe](https://github.com/chandrakanth7/assignment2-chinthakuntla/blob/main/AboutMe.md)
