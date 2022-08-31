@@ -45,4 +45,17 @@ This table includes best cities to visit and time it takes to spend there.
 >
 > No legacy is so rich as honesty -- <cite>Willaim Shakespeare</cite>
 
+---
 
+## Code Fencing
+> How to create hamburger menu icon consisting from single SVG path
+>
+[Find the answer here](https://stackoverflow.com/questions/67482923/how-to-create-hamburger-menu-icon-consisting-from-single-svg-path)
+
+<svg viewBox="0 0 100 80" width="40" height="40">
+  <rect width="100" height="20"></rect>
+  <rect y="30" width="100" height="20"></rect>
+  <rect y="60" width="100" height="20"></rect>
+</svg>
+
+[Snippet source code](https://css-tricks.com/snippets/svg/svg-hamburger-menu/)
