@@ -37,6 +37,7 @@ This table includes best cities to visit and time it takes to spend there.
 |Chicago   |Willis Tower  |1 hour  |
 |Colorado  |Larimer Square|2 hours | 
 |New York  |Times Square  |4 hours | 
+|Texas     |The Alamo     |3 hours |  
 
 ---
 
